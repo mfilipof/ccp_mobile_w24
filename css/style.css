@@ -37,8 +37,8 @@ body{
 
 nav ul li a:hover,
 nav ul li a.open {
-   color: #f4f4f4;
-   border: 2px solid #fff;
+   color: darkslategray;
+   border: 2px solid darkslategray;
    padding: 2px;
 }
 
