@@ -2,7 +2,7 @@ body{
     margin:5px;
     padding:5px;
     line-height:1.15;
-    background-color: #ffdbfa38;
+    background-color: #FFF0FB;
  }
 
  h1,h2,h3,h4 {
@@ -26,7 +26,7 @@ body{
  }
 
  nav li{
-    background-color: rgba(255, 0, 162, 0.438);
+    background-color: #FFF0FB;
     border: 2px solid black;
     border-radius: 10px;
     display: inline-block;
@@ -37,8 +37,8 @@ body{
 
 nav ul li a:hover,
 nav ul li a.open {
-   color: white;
-   border: 2px solid white;
+   color: black;
+   border: 2px solid black;
    padding: 2px;
 }
 
@@ -89,7 +89,7 @@ img {
    position: absolute;
    left: -999px;
    top: -999px;
-   background-color: #ffdbfa38;
+   background-color: white;
  }
 
  .skip:focus {
