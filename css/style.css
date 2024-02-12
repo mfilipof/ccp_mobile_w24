@@ -26,8 +26,8 @@ body{
  }
 
  nav li{
-    background-color: #FF94E2;
-    border: 2px solid black;
+    background-color: white;
+    border: 2px solid rgba(255, 0, 162, 0.438);
     border-radius: 10px;
     display: inline-block;
     padding: 9px 1px 9px 1px;
@@ -37,8 +37,8 @@ body{
 
 nav ul li a:hover,
 nav ul li a.open {
-   color: #53274D;
-   border: 2px solid #53274D;
+   color: black;
+   border: 2px solid black;
    padding: 2px;
 }
 
