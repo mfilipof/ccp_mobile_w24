@@ -37,10 +37,9 @@ body{
 
 nav ul li a:hover,
 nav ul li a.open {
-   color: black;
-   border: 2px solid black;
+   color: #53274D;
+   border: 2px solid #53274D;
    padding: 2px;
-   background-color: white;
 }
 
 
