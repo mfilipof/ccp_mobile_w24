@@ -83,13 +83,13 @@ img {
  }
 
 .skip {
-   color: rgba(255, 0, 162, 0.438);
+   color: black;
    padding: 8px;
    z-index: 100;  
    position: absolute;
    left: -999px;
    top: -999px;
-   background-color: #f4f4f4;
+   background-color: #ffdbfa38;
  }
 
  .skip:focus {
